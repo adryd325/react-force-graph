@@ -42,7 +42,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "force-graph": "1",
+    "force-graph": "git://github.com/adryd325/force-graph.git#42497e90ed1c65f03dcc402e957d42afc7fd055c",  
     "prop-types": "15",
     "react-kapsule": "2"
   },
